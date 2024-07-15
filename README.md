@@ -4,3 +4,5 @@ Make a system which tells whether the person will be save from sinking. What fac
 
 In this article, we will analyze the Titanic data set and make two predictions. One prediction to see which passengers on board the ship would survive and then another prediction to see if we would’ve survived.
 
+This repository contains a project aimed at classifying passengers on the Titanic and predicting their survival based on various factors such as socio-economic status, age, gender, and other relevant attributes. The goal is to build a machine learning model that accurately predicts whether a passenger would survive the Titanic disaster.
+
